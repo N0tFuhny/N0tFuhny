@@ -1,9 +1,11 @@
 # Hi, I'm Fuhny 👋
-My Fav Pokemon 🤙
-<img src="https://github.com/user-attachments/assets/d19b95c6-83c9-49b4-bdd0-b8bef8d86b95"
-     alt="Leafeon"
-     width="175"/>
+<h2 align="center">My Fav Pokemon 🤙</h2>
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d19b95c6-83c9-49b4-bdd0-b8bef8d86b95"
+       alt="Leafeon"
+       width="175">
+</p>
 
 I'm an undergraduate student building a strong foundation in software development as I work toward a career in cybersecurity.
 
