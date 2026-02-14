@@ -14,10 +14,11 @@ I'm an undergraduate student building a strong foundation in software developmen
 - 🎯 Goal: to become a Security Analyst who understands how systems are built — and how to protect them  
 - 📫 Reach me: risky1243@gmail.com
 
-### Github Statistic
+<!-- ### Github Statistic
 <p align="left">
 <a href="https://github.com/N0tFuhny">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=N0tFuhny&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N0tFuhny&layout=compact&theme=algolia"/>
 </a>
 </p>
+-->
