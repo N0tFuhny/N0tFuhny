@@ -1,6 +1,7 @@
 # Hi, I'm Fuhny 👋
 
-<img width="860" height="880" alt="433-4339669_hd-leafeon-global-link-artwork-leafeon-png-transparent" src="https://github.com/user-attachments/assets/65b5dc06-26d5-461c-970f-a2ce3b084016" />
+![Leafeon](https://github.com/user-attachments/assets/d19b95c6-83c9-49b4-bdd0-b8bef8d86b95)
+
 
 I'm an undergraduate student building a strong foundation in software development as I work toward a career in cybersecurity.
 
