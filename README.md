@@ -10,21 +10,19 @@
 N0tFuhny@github
 ----------------
 Role      : Undergraduate Student
+Pronouns  : He/Him
+Location  : Bekasi/Kab.Bogor (Indonesia)
 Focus     : Cybersecurity
 OS        : Windows / Linux
 Editor    : VS Code / Antigravity
 Shell     : PowerShell / Bash
-Languages : Python, JavaScript
+Languages : Python, JavaScript, HTML, CSS
 Database  : PostgreSQL
 Tools     : pgAdmin4, Postman
-Learning
-• Secure system design
-• Web application security
-• API development
-Interests
-• Network security
-• Vulnerability analysis
-• System hardening
+Hobbies   : Gaming, Cooking, Hangout
+Discord   : nciing (Fuhny)
+----------------
+My favorite pokemon Leafeon 🖤
 </pre>
 </td>
 </tr>
@@ -67,6 +65,5 @@ I'm an undergraduate student building a strong foundation in software developmen
 ---
 
 <pre>
-$ echo "Learning how systems work — and how to defend them."
 Learning how systems work — and how to defend them.
 </pre>
