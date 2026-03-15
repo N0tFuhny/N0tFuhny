@@ -1,44 +1,32 @@
 # > neofetch
 
-<table>
+<table width="100%">
 <tr>
-
-<td width="340" align="center">
-
-<img src="https://i.imgur.com/owbvUHU.jpeg" width="300">
-
+<td width="37%" align="center" valign="top">
+<img src="https://i.imgur.com/rzUD1VH.jpeg" width="100%">
 </td>
-
-<td align="left">
-
-<pre style="background-color:#0d1117; padding:16px; border-radius:8px;">
+<td valign="top" width="63%">
+<pre>
 N0tFuhny@github
-────────────────────────────
-
+----------------
 Role      : Undergraduate Student
 Focus     : Cybersecurity
-
 OS        : Windows / Linux
 Editor    : VS Code / Antigravity
 Shell     : PowerShell / Bash
-
 Languages : Python, JavaScript
 Database  : PostgreSQL
 Tools     : pgAdmin4, Postman
-
 Learning
 • Secure system design
 • Web application security
 • API development
-
 Interests
 • Network security
 • Vulnerability analysis
 • System hardening
 </pre>
-
 </td>
-
 </tr>
 </table>
 
@@ -48,10 +36,10 @@ Interests
 
 I'm an undergraduate student building a strong foundation in software development while working toward a career in **cybersecurity**.
 
-- 💻 **Tech stack:** Python, JavaScript, PostgreSQL, pgAdmin4, Postman  
-- 🧠 **Currently learning:** Secure system design, web application security, API development  
-- 🔐 **Interested in:** Network security, vulnerability analysis, system hardening  
-- 🎯 **Goal:** Become a Security Analyst who understands both **building and defending systems**
+* 💻 **Tech stack:** Python, JavaScript, PostgreSQL, pgAdmin4, Postman
+* 🧠 **Currently learning:** Secure system design, web application security, API development
+* 🔐 **Interested in:** Network security, vulnerability analysis, system hardening
+* 🎯 **Goal:** Become a Security Analyst who understands both **building and defending systems**
 
 ---
 
@@ -67,15 +55,14 @@ I'm an undergraduate student building a strong foundation in software developmen
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0tFuhny&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0tFuhny&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-- 📧 Email: [risky1243@gmail.com](mailto:risky1243@gmail.com)
-- 🐙 GitHub: https://github.com/N0tFuhny
+* 📧 Email: [risky1243@gmail.com](mailto:risky1243@gmail.com)
+* 🐙 GitHub: https://github.com/N0tFuhny
 
 ---
 
