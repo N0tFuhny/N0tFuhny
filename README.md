@@ -1,12 +1,18 @@
 # > neofetch
 
-|                                                          |   |
-| -------------------------------------------------------- | - |
-| <img src="https://i.imgur.com/owbvUHU.jpeg" width="260"> |   |
+<table>
+<tr>
+<td width="300">
 
-```ansi id="y0apb4"
+<img src="https://i.imgur.com/owbvUHU.jpeg" width="260">
+
+</td>
+
+<td>
+
+<pre>
 N0tFuhny@github
-──────────────────────────────
+────────────────────────────
 
 Role      : Undergraduate Student
 Focus     : Cybersecurity
@@ -28,9 +34,11 @@ Interests
 • Network security
 • Vulnerability analysis
 • System hardening
-```
+</pre>
 
-|
+</td>
+</tr>
+</table>
 
 ---
 
