@@ -1,24 +1,72 @@
-# Hi, I'm Fuhny 👋
-My Fav Pokemon 🤙
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/d19b95c6-83c9-49b4-bdd0-b8bef8d86b95"
-       alt="Leafeon"
-       width="175">
-</p>
+# > neofetch
+
+|                                                           |   |
+| --------------------------------------------------------- | - |
+| <img src="https://i.imgur.com/owbvUHU.jpeg" width="260"> |   |
+
+```bash
+N0tFuhny@github
+-------------------------
+Role: Undergraduate Student
+Focus: Cybersecurity
+
+OS: Windows / Linux
+Editor: VS Code / Antigravity
+Shell: PowerShell / Bash
+
+Languages: Python, JavaScript
+Database: PostgreSQL
+Tools: pgAdmin4, Postman
+
+Learning:
+- Secure system design
+- Web application security
+- API development
+
+Interests:
+- Network security
+- Vulnerability analysis
+- System hardening
+```
+
+|
+
+</br>
+
+## 👨‍💻 About Me
 
 I'm an undergraduate student building a strong foundation in software development as I work toward a career in cybersecurity.
 
-- 💻 Tech stack: Python, JavaScript, PostgreSQL, pgAdmin4, Postman  
-- 🧠 Currently learning: secure system design, web application security, and API development  
-- 🔐 Interested in: network security, vulnerability analysis, and system hardening  
-- 🎯 Goal: to become a Security Analyst who understands how systems are built — and how to protect them  
-- 📫 Reach me: risky1243@gmail.com
+* 💻 **Tech stack:** Python, JavaScript, PostgreSQL, pgAdmin4, Postman
+* 🧠 **Currently learning:** secure system design, web application security, and API development
+* 🔐 **Interested in:** network security, vulnerability analysis, and system hardening
+* 🎯 **Goal:** to become a Security Analyst who understands how systems are built — and how to protect them
+* 📫 **Reach me:** [risky1243@gmail.com](mailto:risky1243@gmail.com)
 
-<!-- ### Github Statistic
-<p align="left">
-<a href="https://github.com/N0tFuhny">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=N0tFuhny&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=N0tFuhny&layout=compact&theme=algolia"/>
-</a>
-</p>
--->
+</br>
+
+## ⚙️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman\&logoColor=white)
+
+</br>
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+</br>
+
+## 📫 Contact
+
+* 📧 Email: [risky1243@gmail.com](mailto:risky1243@gmail.com)
+* 🐙 GitHub: https://github.com/N0tFuhny
+
+</br>
+
+> “Learning how systems work — and how to defend them.”
