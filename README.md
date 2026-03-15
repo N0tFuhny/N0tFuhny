@@ -1,18 +1,17 @@
-## $ neofetch
+# > neofetch
 
-<table cellpadding="0" cellspacing="0">
+<table style="border-collapse:collapse;">
 <tr>
-<td width="300" valign="top">
 
-<img src="https://i.imgur.com/owbvUHU.jpeg" width="260">
-
+<td width="320" style="padding:0;">
+<img src="https://i.imgur.com/owbvUHU.jpeg" width="300">
 </td>
 
-<td valign="top">
+<td style="padding:0;">
 
-<pre>
+<pre style="margin:0;padding:16px;border-radius:10px;">
 N0tFuhny@github
-────────────────────────────────
+────────────────────────────
 
 Role      : Undergraduate Student
 Focus     : Cybersecurity
@@ -37,6 +36,7 @@ Interests
 </pre>
 
 </td>
+
 </tr>
 </table>
 
