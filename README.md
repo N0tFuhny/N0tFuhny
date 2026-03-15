@@ -3,17 +3,15 @@
 <table>
 <tr>
 
-<td width="320" align="center">
+<td width="340" align="center">
 
-<img src="https://i.imgur.com/owbvUHU.jpeg" width="300" style="border-radius:10px;">
+<img src="https://i.imgur.com/owbvUHU.jpeg" width="300">
 
 </td>
 
-<td>
+<td align="left">
 
-<div style="background:#0d1117;border-radius:10px;padding:18px;font-family:monospace;">
-
-<pre>
+<pre style="background-color:#0d1117; padding:16px; border-radius:8px;">
 N0tFuhny@github
 ────────────────────────────
 
@@ -38,8 +36,6 @@ Interests
 • Vulnerability analysis
 • System hardening
 </pre>
-
-</div>
 
 </td>
 
