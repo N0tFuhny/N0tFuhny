@@ -1,42 +1,36 @@
 # > neofetch
 
-<table>
-<tr>
-<td width="320">
+|                                                          |   |
+| -------------------------------------------------------- | - |
+| <img src="https://i.imgur.com/owbvUHU.jpeg" width="260"> |   |
 
-<img src="https://i.imgur.com/owbvUHU.jpeg" width="300">
-
-</td>
-<td>
-
-```bash
+```ansi id="y0apb4"
 N0tFuhny@github
--------------------------
-Role: Undergraduate Student
-Focus: Cybersecurity
+──────────────────────────────
 
-OS: Windows / Linux
-Editor: VS Code / Antigravity
-Shell: PowerShell / Bash
+Role      : Undergraduate Student
+Focus     : Cybersecurity
 
-Languages: Python, JavaScript
-Database: PostgreSQL
-Tools: pgAdmin4, Postman
+OS        : Windows / Linux
+Editor    : VS Code / Antigravity
+Shell     : PowerShell / Bash
 
-Learning:
+Languages : Python, JavaScript
+Database  : PostgreSQL
+Tools     : pgAdmin4, Postman
+
+Learning
 • Secure system design
 • Web application security
 • API development
 
-Interests:
+Interests
 • Network security
 • Vulnerability analysis
 • System hardening
 ```
 
-</td>
-</tr>
-</table>
+|
 
 ---
 
