@@ -1,15 +1,19 @@
 # > neofetch
 
-<table style="border-collapse:collapse;">
+<table>
 <tr>
 
-<td width="320" style="padding:0;">
-<img src="https://i.imgur.com/owbvUHU.jpeg" width="300">
+<td width="320" align="center">
+
+<img src="https://i.imgur.com/owbvUHU.jpeg" width="300" style="border-radius:10px;">
+
 </td>
 
-<td style="padding:0;">
+<td>
 
-<pre style="margin:0;padding:16px;border-radius:10px;">
+<div style="background:#0d1117;border-radius:10px;padding:18px;font-family:monospace;">
+
+<pre>
 N0tFuhny@github
 ────────────────────────────
 
@@ -34,6 +38,8 @@ Interests
 • Vulnerability analysis
 • System hardening
 </pre>
+
+</div>
 
 </td>
 
