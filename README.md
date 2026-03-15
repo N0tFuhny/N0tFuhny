@@ -1,8 +1,13 @@
 # > neofetch
 
-|                                                           |   |
-| --------------------------------------------------------- | - |
-| <img src="https://i.imgur.com/owbvUHU.jpeg" width="260"> |   |
+<table>
+<tr>
+<td width="320">
+
+<img src="https://i.imgur.com/owbvUHU.jpeg" width="300">
+
+</td>
+<td>
 
 ```bash
 N0tFuhny@github
@@ -19,19 +24,21 @@ Database: PostgreSQL
 Tools: pgAdmin4, Postman
 
 Learning:
-- Secure system design
-- Web application security
-- API development
+• Secure system design
+• Web application security
+• API development
 
 Interests:
-- Network security
-- Vulnerability analysis
-- System hardening
+• Network security
+• Vulnerability analysis
+• System hardening
 ```
 
-|
+</td>
+</tr>
+</table>
 
-</br>
+---
 
 ## 👨‍💻 About Me
 
@@ -43,7 +50,7 @@ I'm an undergraduate student building a strong foundation in software developmen
 * 🎯 **Goal:** to become a Security Analyst who understands how systems are built — and how to protect them
 * 📫 **Reach me:** [risky1243@gmail.com](mailto:risky1243@gmail.com)
 
-</br>
+---
 
 ## ⚙️ Tech Stack
 
@@ -52,7 +59,7 @@ I'm an undergraduate student building a strong foundation in software developmen
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql\&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-orange?logo=postman\&logoColor=white)
 
-</br>
+---
 
 ## 📊 GitHub Stats
 
@@ -60,13 +67,13 @@ I'm an undergraduate student building a strong foundation in software developmen
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0tFuhny\&layout=compact\&theme=tokyonight)
 
-</br>
+---
 
 ## 📫 Contact
 
 * 📧 Email: [risky1243@gmail.com](mailto:risky1243@gmail.com)
 * 🐙 GitHub: https://github.com/N0tFuhny
 
-</br>
+---
 
 > “Learning how systems work — and how to defend them.”
