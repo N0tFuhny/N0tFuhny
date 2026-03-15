@@ -1,18 +1,18 @@
-# > neofetch
+## $ neofetch
 
-<table>
+<table cellpadding="0" cellspacing="0">
 <tr>
-<td width="300">
+<td width="300" valign="top">
 
 <img src="https://i.imgur.com/owbvUHU.jpeg" width="260">
 
 </td>
 
-<td>
+<td valign="top">
 
 <pre>
 N0tFuhny@github
-────────────────────────────
+────────────────────────────────
 
 Role      : Undergraduate Student
 Focus     : Cybersecurity
@@ -44,38 +44,40 @@ Interests
 
 ## 👨‍💻 About Me
 
-I'm an undergraduate student building a strong foundation in software development as I work toward a career in cybersecurity.
+I'm an undergraduate student building a strong foundation in software development while working toward a career in **cybersecurity**.
 
-* 💻 **Tech stack:** Python, JavaScript, PostgreSQL, pgAdmin4, Postman
-* 🧠 **Currently learning:** secure system design, web application security, and API development
-* 🔐 **Interested in:** network security, vulnerability analysis, and system hardening
-* 🎯 **Goal:** to become a Security Analyst who understands how systems are built — and how to protect them
-* 📫 **Reach me:** [risky1243@gmail.com](mailto:risky1243@gmail.com)
+- 💻 **Tech stack:** Python, JavaScript, PostgreSQL, pgAdmin4, Postman  
+- 🧠 **Currently learning:** Secure system design, web application security, API development  
+- 🔐 **Interested in:** Network security, vulnerability analysis, system hardening  
+- 🎯 **Goal:** Become a Security Analyst who understands both **building and defending systems**
 
 ---
 
 ## ⚙️ Tech Stack
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-orange?logo=postman\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0tFuhny\&show_icons=true\&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0tFuhny&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0tFuhny\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0tFuhny&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact
 
-* 📧 Email: [risky1243@gmail.com](mailto:risky1243@gmail.com)
-* 🐙 GitHub: https://github.com/N0tFuhny
+- 📧 Email: [risky1243@gmail.com](mailto:risky1243@gmail.com)
+- 🐙 GitHub: https://github.com/N0tFuhny
 
 ---
 
-> “Learning how systems work — and how to defend them.”
+<pre>
+$ echo "Learning how systems work — and how to defend them."
+Learning how systems work — and how to defend them.
+</pre>
