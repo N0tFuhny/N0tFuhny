@@ -11,18 +11,20 @@ N0tFuhny@github
 ----------------
 Role      : Undergraduate Student
 Pronouns  : He/Him
-Location  : Bekasi/Kab.Bogor (Indonesia)
-Focus     : Cybersecurity
+Location  : Indonesia
+Focus     : AI Engineering, Cybersecurity, Software Development
 OS        : Windows / Linux
-Editor    : VS Code / Antigravity
+Editor    : VS Code
 Shell     : PowerShell / Bash
 Languages : Python, JavaScript, HTML, CSS
 Database  : PostgreSQL
-Tools     : pgAdmin4, Postman
-Hobbies   : Gaming, Cooking, Hangout
+Framework : TensorFlow, FastAPI, Next.js
+Tools     : Git, Postman, pgAdmin4
+Projects  : GizGOAT, NLP Sentiment Analysis,
+            Deep Learning, CNN Classification
 Discord   : nciing (Fuhny)
 ----------------
-My favorite pokemon Leafeon 🖤
+Building intelligent systems and secure applications.
 </pre>
 </td>
 </tr>
@@ -30,34 +32,122 @@ My favorite pokemon Leafeon 🖤
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-I'm an undergraduate student building a strong foundation in software development while working toward a career in **cybersecurity**.
+I'm an undergraduate student passionate about Artificial Intelligence, Software Engineering, and Cybersecurity.
 
-* 💻 **Tech stack:** Python, JavaScript, PostgreSQL, pgAdmin4, Postman
-* 🧠 **Currently learning:** Secure system design, web application security, API development
-* 🔐 **Interested in:** Network security, vulnerability analysis, system hardening
-* 🎯 **Goal:** Become a Security Analyst who understands both **building and defending systems**
+I enjoy building practical applications that combine machine learning, backend development, and real-world problem solving. Currently, I am expanding my experience through AI and software development projects while strengthening my understanding of secure system design.
 
----
+### Current Interests
 
-## ⚙️ Tech Stack
+* Artificial Intelligence & Machine Learning
+* Deep Learning with TensorFlow
+* Data Science & Analytics
+* API Development with FastAPI
+* Software Architecture
+* Cybersecurity Fundamentals
 
-![Python](https://img.shields.io/badge/Python-blue?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-orange?logo=postman&logoColor=white)
+### Current Goal
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N0tFuhny&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N0tFuhny&layout=compact&theme=tokyonight)
+Become an engineer capable of designing, building, and securing intelligent systems that create real-world impact.
 
 ---
 
-## 📫 Contact
+# 🚀 Featured Projects
+
+### 🐐 GizGOAT — Healthy Living Recommendation Platform
+
+Capstone project focused on helping users maintain healthier lifestyles through AI-powered analysis and recommendations.
+
+Features:
+
+* Sleep Quality Prediction
+* BMI Calculator
+* Daily Calorie Estimation
+* Food Nutrition Search & Tracking
+* Lifestyle Recommendation Engine
+
+Tech Stack:
+
+* TensorFlow
+* FastAPI
+* PostgreSQL
+* Next.js
+* Node.js
+
+Role:
+
+* Project Manager
+* AI Engineer
+
+---
+
+### 💬 Indonesian Sentiment Analysis
+
+Natural Language Processing project using Google Play reviews to classify sentiment into:
+
+* Positive
+* Neutral
+* Negative
+
+Implemented using:
+
+* Scikit-Learn
+* TF-IDF
+* Support Vector Machine (SVM)
+
+---
+
+### 🖼️ CNN Image Classification
+
+Deep Learning image classification project built with TensorFlow and Keras.
+
+Implemented:
+
+* CNN Architecture
+* Model Evaluation
+* TensorFlow Lite Export
+* TensorFlow.js Export
+
+---
+
+# ⚙️ Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-blue?logo=python\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-orange?logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-blue?logo=css3\&logoColor=white)
+
+### AI & Data
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow\&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn\&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas\&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql\&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-orange?logo=postman\&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS_Code-007ACC?logo=visual-studio-code\&logoColor=white)
+
+---
+
+# 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com?user=N0tFuhny&theme=tokyonight)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=N0tFuhny&theme=tokyo-night)
+
+---
+
+# 📫 Contact
 
 * 📧 Email: [risky1243@gmail.com](mailto:risky1243@gmail.com)
 * 🐙 GitHub: https://github.com/N0tFuhny
@@ -65,5 +155,7 @@ I'm an undergraduate student building a strong foundation in software developmen
 ---
 
 <pre>
-Learning how systems work — and how to defend them.
+Building intelligent systems,
+learning how they work,
+and understanding how to secure them.
 </pre>
