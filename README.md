@@ -9,7 +9,7 @@
 <pre>
 N0tFuhny@github
 ----------------
-Role      : Undergraduate Student
+Role      : Undergraduate College Student
 Pronouns  : He/Him
 Location  : Indonesia
 Focus     : AI Engineering, Cybersecurity, Software Development
@@ -20,8 +20,8 @@ Languages : Python, JavaScript, HTML, CSS
 Database  : PostgreSQL
 Framework : TensorFlow, FastAPI, Next.js
 Tools     : Git, Postman, pgAdmin4
-Projects  : GizGOAT, NLP Sentiment Analysis,
-            Deep Learning, CNN Classification
+Projects  : GizGOAT, Flower Image Classification MobileNetV2,
+            NLP Sentiment Analysis
 Discord   : nciing (Fuhny)
 ----------------
 Building intelligent systems and secure applications.
@@ -34,7 +34,7 @@ Building intelligent systems and secure applications.
 
 # 👨‍💻 About Me
 
-I'm an undergraduate student passionate about Artificial Intelligence, Software Engineering, and Cybersecurity.
+I'm an undergraduate college student passionate about Artificial Intelligence, Software Engineering, and Cybersecurity.
 
 I enjoy building practical applications that combine machine learning, backend development, and real-world problem solving. Currently, I am expanding my experience through AI and software development projects while strengthening my understanding of secure system design.
 
@@ -82,6 +82,19 @@ Role:
 
 ---
 
+### 🖼️ Flower Image Classification MobileNetV2
+
+Deep Learning image classification project built with TensorFlow and Keras.
+
+Implemented:
+
+* CNN Architecture
+* Model Evaluation
+* TensorFlow Lite Export
+* TensorFlow.js Export
+
+---
+
 ### 💬 Indonesian Sentiment Analysis
 
 Natural Language Processing project using Google Play reviews to classify sentiment into:
@@ -95,19 +108,6 @@ Implemented using:
 * Scikit-Learn
 * TF-IDF
 * Support Vector Machine (SVM)
-
----
-
-### 🖼️ CNN Image Classification
-
-Deep Learning image classification project built with TensorFlow and Keras.
-
-Implemented:
-
-* CNN Architecture
-* Model Evaluation
-* TensorFlow Lite Export
-* TensorFlow.js Export
 
 ---
 
